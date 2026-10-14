@@ -10,3 +10,7 @@ A small practice repository for learning the pull request workflow.
 4. Review and merge.
 
 This repo exists to practise that flow.
+
+## Contributing
+
+Typo fixes and README improvements are welcome. Open a pull request with a short description of what you changed and why.
